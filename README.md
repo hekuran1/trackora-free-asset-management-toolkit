@@ -4,6 +4,12 @@ Practical, copy-and-use templates and guides for tracking IT assets and equipmen
 
 Maintained by [Trackora](https://trackora.cloud/?utm_source=github&utm_medium=repo&utm_campaign=free-asset-toolkit&utm_content=readme), asset lifecycle management for organizations.
 
+## New: Trackora Free Resource Library
+
+Five professionally designed free resources: an IT Equipment Budget Planner, Equipment Replacement Cost Calculator, IT Procurement Comparison Toolkit, Employee Equipment Policy Pack and IT Asset Audit Preparation Pack. No sign-up needed. **[Browse the library](resources/README.md)** or the [resource page](https://hekuran1.github.io/trackora-free-asset-management-toolkit/).
+
+## Starter templates
+
 > All sample rows in the CSV files use fictional data. Delete them before use.
 
 ## Contents
