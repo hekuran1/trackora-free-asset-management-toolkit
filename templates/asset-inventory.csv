@@ -1,0 +1,3 @@
+asset_tag,asset_name,category,manufacturer,model,serial_number,status,condition,location,assigned_to,department,purchase_date,purchase_cost,currency,supplier,warranty_expiry,last_audit_date,notes
+IT-0001,Dell Latitude 5440,Laptop,Dell,Latitude 5440,ABC1234,In use,Good,HQ - Floor 2,Jane Doe,Finance,2025-01-15,1150.00,USD,Dell Direct,2028-01-15,2026-06-01,
+IT-0002,iPhone 15,Phone,Apple,iPhone 15,DEF5678,In stock,New,HQ - IT Storage,,IT,2025-03-02,799.00,USD,Apple,2026-03-02,,

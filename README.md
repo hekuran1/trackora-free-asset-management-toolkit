@@ -1,0 +1,31 @@
+# Free Asset Management Toolkit
+
+Practical, copy-and-use templates and guides for tracking IT assets and equipment, from a first spreadsheet to a structured process. Free to use and adapt (MIT).
+
+Maintained by [Trackora](https://trackora.cloud), asset lifecycle management for organizations.
+
+## Contents
+
+| Resource | File |
+|---|---|
+| Asset inventory CSV | [templates/asset-inventory.csv](templates/asset-inventory.csv) |
+| Equipment inventory sheet (accessories/consumables) | [templates/equipment-inventory-sheet.csv](templates/equipment-inventory-sheet.csv) |
+| Equipment checkout/return log | [templates/equipment-checkout-log.csv](templates/equipment-checkout-log.csv) |
+| Employee equipment handover form | [templates/employee-equipment-handover.md](templates/employee-equipment-handover.md) |
+| Asset audit checklist | [checklists/asset-audit-checklist.md](checklists/asset-audit-checklist.md) |
+| QR asset labeling guide | [guides/qr-asset-labeling-guide.md](guides/qr-asset-labeling-guide.md) |
+| Implementation guide | [guides/asset-management-implementation-guide.md](guides/asset-management-implementation-guide.md) |
+| Spreadsheet-to-software migration | [guides/spreadsheet-to-software-migration-guide.md](guides/spreadsheet-to-software-migration-guide.md) |
+
+CSV files open in Excel, Google Sheets and LibreOffice.
+
+## Quick start
+1. Copy `templates/asset-inventory.csv` into your spreadsheet tool.
+2. Read the implementation guide.
+3. Tag assets, then run the audit checklist.
+
+## Contributing
+Issues and pull requests that improve the templates are welcome.
+
+## License
+MIT. See [LICENSE](LICENSE).

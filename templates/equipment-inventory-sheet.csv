@@ -1,0 +1,2 @@
+item_id,item_name,category,quantity_total,quantity_available,reorder_threshold,storage_location,unit_cost,owner,last_counted,notes
+CBL-USB-C,USB-C cable 1m,Accessory,40,32,10,IT Cupboard A,6.50,IT,2026-05-01,
