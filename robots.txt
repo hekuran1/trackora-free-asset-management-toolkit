@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hekuran1.github.io/trackora-free-asset-management-toolkit/sitemap.xml
