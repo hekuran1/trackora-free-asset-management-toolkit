@@ -2,7 +2,9 @@
 
 Practical, copy-and-use templates and guides for tracking IT assets and equipment, from a first spreadsheet to a structured process. Free to use and adapt (MIT).
 
-Maintained by [Trackora](https://trackora.cloud), asset lifecycle management for organizations.
+Maintained by [Trackora](https://trackora.cloud/?utm_source=github&utm_medium=repo&utm_campaign=free-asset-toolkit&utm_content=readme), asset lifecycle management for organizations.
+
+> All sample rows in the CSV files use fictional data. Delete them before use.
 
 ## Contents
 
@@ -14,6 +16,7 @@ Maintained by [Trackora](https://trackora.cloud), asset lifecycle management for
 | Employee equipment handover form | [templates/employee-equipment-handover.md](templates/employee-equipment-handover.md) |
 | Asset audit checklist | [checklists/asset-audit-checklist.md](checklists/asset-audit-checklist.md) |
 | QR asset labeling guide | [guides/qr-asset-labeling-guide.md](guides/qr-asset-labeling-guide.md) |
+| Data dictionary | [guides/data-dictionary.md](guides/data-dictionary.md) |
 | Implementation guide | [guides/asset-management-implementation-guide.md](guides/asset-management-implementation-guide.md) |
 | Spreadsheet-to-software migration | [guides/spreadsheet-to-software-migration-guide.md](guides/spreadsheet-to-software-migration-guide.md) |
 

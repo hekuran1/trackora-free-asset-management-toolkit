@@ -15,4 +15,4 @@ Spreadsheets are a fine start. Consider moving when you see concurrent-edit conf
 ## What to look for in a tool
 CSV import/export, assignment history, check-in/out, QR labels and scanning, audit workflows, role-based access, and reports. Options range from open-source self-hosted tools to hosted services. Evaluate them against your own size and needs.
 
-If you want a hosted option, [Trackora](https://trackora.cloud) is built for asset inventory, assignments, QR-based identification and audits.
+If you want a hosted option, [Trackora](https://trackora.cloud/?utm_source=github&utm_medium=repo&utm_campaign=free-asset-toolkit&utm_content=migration-guide) is built for asset inventory, assignments, QR-based identification and audits.

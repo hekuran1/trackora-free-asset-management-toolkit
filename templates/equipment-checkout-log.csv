@@ -1,2 +1,2 @@
 checkout_id,asset_tag,asset_name,borrower_name,borrower_email,checkout_date,expected_return_date,checked_out_by,condition_out,purpose,actual_return_date,checked_in_by,condition_in,notes
-CO-0001,AV-0003,Sony A7 Camera,John Smith,john@example.com,2026-02-03,2026-02-05,Ops Desk,Good,Event filming,2026-02-05,Ops Desk,Good,
+CO-0001,AV-0003,Sony A7 Camera,Sample Borrower (fictional),borrower@example.com,2026-02-03,2026-02-05,Ops Desk,Good,Event filming,2026-02-05,Ops Desk,Good,
