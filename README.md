@@ -8,6 +8,18 @@ Maintained by [Trackora](https://trackora.cloud/?utm_source=github&utm_medium=re
 
 Five professionally designed free resources: an IT Equipment Budget Planner, Equipment Replacement Cost Calculator, IT Procurement Comparison Toolkit, Employee Equipment Policy Pack and IT Asset Audit Preparation Pack. No sign-up needed. **[Browse the library](resources/README.md)** or the [resource page](https://hekuran1.github.io/trackora-free-asset-management-toolkit/).
 
+## Resource Center additions (v1.2.0)
+
+Four more document packs and five online calculators, all free:
+
+| Resource | Where |
+|---|---|
+| Employee Equipment Handover Pack (Word, PDF) | [resources/employee-equipment-handover-pack](resources/employee-equipment-handover-pack/) |
+| IT Asset Audit and Reconciliation Kit (Word, PDF, Excel) | [resources/it-asset-audit-reconciliation-kit](resources/it-asset-audit-reconciliation-kit/) |
+| Equipment Loss and Recovery Toolkit (Word, PDF) | [resources/equipment-loss-recovery-toolkit](resources/equipment-loss-recovery-toolkit/) |
+| Equipment Acquisition and Approval Playbook (Word, PDF) | [resources/equipment-acquisition-approval-playbook](resources/equipment-acquisition-approval-playbook/) |
+| Five online calculators and planners | [resources/online-calculators](resources/online-calculators/) |
+
 ## Starter templates
 
 > All sample rows in the CSV files use fictional data. Delete them before use.
